@@ -1,28 +1,15 @@
-# This is a large heading
+# Testing markdown
 
-## This is a smaller heading
+Everyone must believe now that the only way to thrice as through hardwork. One must also make his or her intentions clear.
+1. hope
+2. Love
+3. Faith
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Most important is **love**. 
 
-- This is
-- an unordered
-- list
-
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
+## some `python code` here:
 
 ```
-This is
-a block
-of code
+def printHello(name):
+	print name
 ```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
